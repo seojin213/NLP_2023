@@ -2,4 +2,4 @@
 
 # 😊😃😍 pyton
 
-[jump to pyton](https://wkidecs.net/book/1)
+[jump to pyton](https://wikidocs.net/book/1)
