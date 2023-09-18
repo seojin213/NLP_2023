@@ -39,3 +39,7 @@
 |:--:|:--:|:--:|
 | 1 | code cells | [variable.assign] | (https://github.com/seojin213/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 
+
+| # | Sessions | Keywords |
+|:--:|:--:|:--:|
+| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
